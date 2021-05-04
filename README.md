@@ -5,5 +5,11 @@ Poor inventory management leads to a loss in sales which in turn paints an inacc
 # Link :
 https://ml-inventoryprediction.herokuapp.com/
 
-# Username: gokul
-# Password: gokul123
+
+## Added all users in our group to this webpage access.
+### Username: gokul
+### Password: gokul123
+#### Others:
+#### username = [anuradha , ashwini, anusanal, abhishek, Sudha ]
+#### corresponding pass = [ anuradha123, ashwini123, anusanal123, abhishek123, sudha123 ]
+
