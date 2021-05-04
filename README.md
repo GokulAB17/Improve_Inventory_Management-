@@ -5,7 +5,7 @@ Poor inventory management leads to a loss in sales which in turn paints an inacc
 # Link :
 https://ml-inventoryprediction.herokuapp.com/
 
-## Youlinks:
+## YouTubelinks:
 ### Webappdemo:
 https://youtu.be/uwzBQe6ObHw
 
