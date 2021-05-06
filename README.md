@@ -19,3 +19,5 @@ https://youtu.be/MpEf257pdhQ
 #### username = [anuradha , ashwini, anusanal, abhishek, Sudha ]
 #### corresponding pass = [ anuradha123, ashwini123, anusanal123, abhishek123, sudha123 ]
 
+### Medium Link:
+https://medium.com/@gokulachari/optimizing-inventory-management-system-using-machine-learning-580cdcb2cf66
